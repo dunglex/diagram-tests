@@ -1,0 +1,15 @@
+
+mermaid-mcp
+*.exe
+*.test
+*.out
+
+# test results
+test/*.bpmn
+test/*.dmn
+test/*.svg
+test/*.png
+test/*.jpg
+test/*.md
+test/*.mmd
+test/*.mermaid

@@ -1,0 +1,4 @@
+Create an entity-relationship diagram for an e-commerce database.
+Create a CUSTOMER entity with primary key id (int), and fields name (string) and email (string).
+Create an ORDER entity with primary key id (int), foreign key customer_id (int), and order_date (date).
+A CUSTOMER can place zero or many orders, while an ORDER must belong to exactly one CUSTOMER.
