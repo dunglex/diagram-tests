@@ -5,11 +5,11 @@ mermaid-mcp
 *.out
 
 # test results
-test/*.bpmn
-test/*.dmn
-test/*.svg
-test/*.png
-test/*.jpg
-test/*.md
-test/*.mmd
-test/*.mermaid
+bpmn/*.bpmn
+bpmn/*.dmn
+bpmn/*.svg
+bpmn/*.png
+mermaid/*.mmd
+mermaid/*.mermaid
+mermaid/*.svg
+mermaid/*.png
