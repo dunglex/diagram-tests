@@ -13,3 +13,6 @@ mermaid/*.mmd
 mermaid/*.mermaid
 mermaid/*.svg
 mermaid/*.png
+drawio/*.drawio
+drawio/*.svg
+drawio/*.png
