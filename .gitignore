@@ -1,9 +1,3 @@
-
-mermaid-mcp
-*.exe
-*.test
-*.out
-
 # test results
 bpmn/*.bpmn
 bpmn/*.dmn

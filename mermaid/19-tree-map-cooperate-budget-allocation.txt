@@ -1,4 +1,4 @@
-Create a comprehensive treemap diagram mapping our company's corporate budget hierarchy for the fiscal year.
+Create a comprehensive treemap diagram mapping for our company's corporate budget hierarchy for the fiscal year.
 Before writing the tree data, add a configuration block to format values as currency with a thousands separator and a dollar sign.
 The central layout structure is nested under the root node 'Global Corporate Budget'.
 Inside the root, break it down into three primary operational segments:
