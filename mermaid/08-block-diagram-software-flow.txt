@@ -1,6 +1,0 @@
-Create a 3-tier application block diagram using flowcharts.
-Group the components into three blocks (subgraphs): 'Frontend', 'Backend API', and 'Data Layer'.
-Inside the 'Frontend' block, have a node called 'Web App'.
-Inside 'Backend API', have 'API Gateway' and 'Auth Service'.
-Inside 'Data Layer', have 'Main DB' and 'Cache'.
-Show that 'Web App' talks to 'API Gateway', 'API Gateway' talks to both 'Auth Service' and 'Main DB', and 'Main DB' syncs with 'Cache'.

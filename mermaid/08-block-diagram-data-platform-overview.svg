@@ -1,0 +1,40 @@
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="796.18" height="520.81" viewBox="0 0 796.18 520.81" font-family="sans-serif" font-size="14">
+  <defs><marker id="block-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#333333"/></marker></defs>
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <rect x="16" y="16" width="112.81" height="50" rx="3" fill="#ECECFF" stroke="#9370DB" stroke-width="1.5"/>
+<text fill="#333333" text-anchor="middle"><tspan x="72.41" y="46.6">space</tspan></text>
+  <rect x="172.81" y="16" width="122.93" height="50" rx="3" fill="#ECECFF" stroke="#9370DB" stroke-width="1.5"/>
+<text fill="#333333" text-anchor="middle"><tspan x="234.28" y="46.6">Dashboard_left</tspan></text>
+  <rect x="339.75" y="16" width="107.37" height="50" rx="3" fill="#0066cc" stroke="#333" stroke-width="1.5"/>
+<text fill="#fff" text-anchor="middle"><tspan x="393.43" y="46.6">Dashboard</tspan></text>
+  <rect x="491.11" y="16" width="113.58" height="50" rx="3" fill="#0066cc" stroke="#333" stroke-width="1.5"/>
+<text fill="#fff" text-anchor="middle"><tspan x="547.9" y="46.6">Dashboard</tspan></text>
+  <rect x="648.69" y="16" width="131.49" height="50" rx="3" fill="#ECECFF" stroke="#9370DB" stroke-width="1.5"/>
+<text fill="#333333" text-anchor="middle"><tspan x="714.44" y="46.6">Dashboard_right</tspan></text>
+  <ellipse cx="72.41" cy="166.41" rx="56.41" ry="56.41" fill="#ECECFF" stroke="#9370DB" stroke-width="1.5"/>
+<text fill="#333333" text-anchor="middle"><tspan x="72.41" y="172.01">Data Sources</tspan></text>
+  <ellipse cx="393.43" cy="166.41" rx="53.68" ry="56.41" fill="#ECECFF" stroke="#9370DB" stroke-width="1.5"/>
+<text fill="#333333" text-anchor="middle"><tspan x="393.43" y="172.01">Processing</tspan></text>
+  <rect x="648.69" y="110" width="131.49" height="112.81" rx="3" fill="#9933cc" stroke="#333" stroke-width="1.5"/>
+<text fill="#333333" text-anchor="middle"><tspan x="714.44" y="172.01">Database</tspan></text>
+  <rect x="16" y="266.81" width="112.81" height="50" rx="3" fill="#9933cc" stroke="#333" stroke-width="1.5"/>
+<text fill="#333333" text-anchor="middle"><tspan x="72.41" y="297.41">API</tspan></text>
+  <rect x="172.81" y="266.81" width="122.93" height="50" rx="3" fill="#9933cc" stroke="#333" stroke-width="1.5"/>
+<text fill="#333333" text-anchor="middle"><tspan x="234.28" y="297.41">Files</tspan></text>
+  <rect x="339.75" y="266.81" width="107.37" height="50" rx="3" fill="#00cc66" stroke="#333" stroke-width="1.5"/>
+<text fill="#333333" text-anchor="middle"><tspan x="393.43" y="297.41">ETL Pipeline</tspan></text>
+  <rect x="491.11" y="266.81" width="113.58" height="50" rx="3" fill="#00cc66" stroke="#333" stroke-width="1.5"/>
+<text fill="#333333" text-anchor="middle"><tspan x="547.9" y="297.41">Transform</tspan></text>
+  <rect x="648.69" y="266.81" width="131.49" height="50" rx="3" fill="#00cc66" stroke="#333" stroke-width="1.5"/>
+<text fill="#333333" text-anchor="middle"><tspan x="714.44" y="297.41">ML Model</tspan></text>
+  <rect x="172.81" y="360.81" width="122.93" height="50" rx="3" fill="#00cc66" stroke="#333" stroke-width="1.5"/>
+<text fill="#333333" text-anchor="middle"><tspan x="234.28" y="391.41">Aggregate</tspan></text>
+  <rect x="339.75" y="360.81" width="107.37" height="50" rx="3" fill="#00cc66" stroke="#333" stroke-width="1.5"/>
+<text fill="#333333" text-anchor="middle"><tspan x="393.43" y="391.41">Cache</tspan></text>
+  <rect x="491.11" y="360.81" width="113.58" height="50" rx="3" fill="#ff99cc" stroke="#333" stroke-width="1.5"/>
+<text fill="#333333" text-anchor="middle"><tspan x="547.9" y="391.41">Visualizations</tspan></text>
+  <rect x="16" y="454.81" width="112.81" height="50" rx="3" fill="#ff99cc" stroke="#333" stroke-width="1.5"/>
+<text fill="#333333" text-anchor="middle"><tspan x="72.41" y="485.41">Alerts</tspan></text>
+  <rect x="339.75" y="454.81" width="107.37" height="50" rx="3" fill="#ff99cc" stroke="#333" stroke-width="1.5"/>
+<text fill="#333333" text-anchor="middle"><tspan x="393.43" y="485.41">Export</tspan></text>
+</svg>
