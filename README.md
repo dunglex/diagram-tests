@@ -3,6 +3,10 @@
 A test/scratch repository for exercising three MCP (Model Context Protocol)
 diagram servers end-to-end from plain-text/Markdown process descriptions.
 
+## Online demo
+
+You can view online demo [Here](https://diagram-mcp-demo.netlify.app/) 
+
 ## Purpose
 
 This repo has no application code of its own — it exists purely to drive and
